@@ -49,3 +49,5 @@ scale as the given program.
 You should use std=c99 flag to compile the source code because there are several Unicode characters you have to when printing the graph. They are; 2500, 2502, 2514, 2591. It is up to you
 to find out what exactly these Unicode print. To print Unicode you may use printf as follows,
 printf(”\u2502”);
+
+### For more details look at the project specifications pdf
